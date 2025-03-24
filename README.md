@@ -80,10 +80,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! If you have ideas for improvements or bug fixes, please open an issue or submit a pull request.
 
-## Contact
-
-For questions or further assistance, please contact [your_email@example.com](mailto:your_email@example.com).
-
 ---
 
 **Note:** The Wikimedia Pageviews API requires a valid User-Agent header. Make sure to update the User-Agent in the code with your personal email address (or another valid contact) for proper identification.
